@@ -36,7 +36,7 @@ const Gallery = () => {
             COME AND BE INSPIRED
           </h3>
           <p className="text-sm text-lg:text-md tracking-wide leading-relaxed text-typography">
-            We're excited to welcome you to our gallery and see how our
+            Were excited to welcome you to our gallery and see how our
             collections influence you.
           </p>
         </div>
